@@ -37,16 +37,14 @@ html{
     color: black;
   }
 .identidad {
-    overflow: hidden;
-    background-color:#ffa6009b;
-    font-family: 'Bebas Neue', cursive;
-    width: 100%;
-    height: 70%;
-    text-align: center;
-    padding: 20px;
-    margin-top: 30px;
-    
-    
+  overflow: hidden;
+  background-color: #ffa6009b;
+  font-family: 'Bebas Neue', cursive;
+  width: 100%;
+  height: 300px;
+  text-align: center;
+  padding: 20px;
+  margin-top: 53px;
 }
 
 
