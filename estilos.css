@@ -11,7 +11,7 @@ h1{
 }
 html{
   scroll-behavior: smooth;
-  scroll-padding: 30px;
+  scroll-padding: 70px;
 }
 .menu {
     overflow: hidden;
@@ -108,7 +108,8 @@ html{
     background-color:#dd2020c0;
     font-family: 'Bebas Neue', cursive;
     text-align: center;
-    font-size:30px
+    font-size:30px;
+    
     
   }
   .mapa{
